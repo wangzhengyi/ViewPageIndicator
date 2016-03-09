@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ViewpagerIndicator</string>
+    <string name="first_content">短信</string>
+    <string name="second_content">收藏</string>
+    <string name="third_content">推荐</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fourth_content">篮球</string>
+    <string name="fifth_content">足球</string>
+    <string name="six_content">羽毛球</string>
+</resources>
